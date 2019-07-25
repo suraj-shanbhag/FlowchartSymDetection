@@ -1,0 +1,26 @@
+<annotation>
+	<folder>output</folder>
+	<filename>sample32-40.jpg</filename>
+	<path>/Users/surajs/Downloads/output/sample32-40.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ui</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>376</xmin>
+			<ymin>323</ymin>
+			<xmax>567</xmax>
+			<ymax>498</ymax>
+		</bndbox>
+	</object>
+</annotation>
